@@ -84,3 +84,7 @@ El proyecto hace uso de diversas tecnologías y herramientas para realizar un an
         <p align="center"><img src="images\aspo.gif"></p>
     </div>
 </div>
+
+
+
+<p align="center"><img src="images\henry.png"></p>

@@ -32,6 +32,7 @@ El proyecto se enfoca en analizar a fondo los siniestros viales en CABA, identif
 El desarrollo del proyecto se divide en varias etapas:
 - Extracción, transformación y carga (ETL): Se cargan y transforman los datos de siniestros viales para su posterior análisis.
 - Análisis Exploratorio de Datos (EDA): Utilizando Pandas, Numpy, Seaborn, Matplotlib y Folium, se exploran patrones, relaciones y tendencias en los conjuntos de datos. Se identifican variables clave para la presentación en el panel de control (dashboard).
+- Creación de una base de datos en mysql con la información necesaria para el dashboard.
 - Creación del Dashboard en Power BI: Se desarrolla un panel de control interactivo en Power BI destacando análisis clave por variables temporales, genero, ubicacion geográficas y relacionadas con las víctimas.
 - Definición de KPIs y Conclusiones: Se establecen Indicadores Clave de Desempeño (KPIs). Se presentan conclusiones y recomendaciones para mejorar la seguridad vial en CABA.
 

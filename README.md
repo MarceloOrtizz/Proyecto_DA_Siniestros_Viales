@@ -99,14 +99,14 @@ Los meses más estrictos con respecto a la circulación fueron entre marzo y oct
 
 <p align="center"><img src="images\trimestres.jpg" width="600" height="350"></p>
 
-El análisis de franjas horarias reveló que el la mayoría de los siniestros ocurren en las primeras horas de la mañana (entre las 4 y las 8), siendo las primeras horas del día cuando ocurren menos hechos (entre las 0 y las 4)
+El análisis de franjas horarias reveló que la mayoría de los siniestros ocurren en las primeras horas de la mañana (entre las 4 y las 8), siendo las primeras horas del día cuando ocurren menos hechos (entre las 0 y las 4)
 
 De cada 4 víctimas, 3 son hombres (75%), y se observa que en general son más jóvenes que las mujeres.
 La mayoría de los hombres jóvenes (15-30) son conductores de motos, y las mujeres jóvenes son acompañantes de motos.
 Los adultos mayores (65+) tanto hombres como mujeres son en su gran mayoría peatones.
 Los hombres adultos (30-65) tienen el mismo patrón que los jóvenes, son conductores de motos, en cambio las mujeres mayores (30-65) siguen el patrón de las mujeres adultas mayores, es decir son peatones en su mayoría.
 
-Estudiando la distribucion de edades separadas por sexo se puede notar que cuando mas joven es el hombre, mas propenso a siniestros viales, en cambio en las mujeres la edad no parece influir demasiado, es mucho mas uniforme sin mostras patrones claros.
+Estudiando la distribucion de edades separadas por sexo se evidencia que cuando mas joven es el hombre, mas propenso a siniestros viales. En cambio en las mujeres la edad no parece influir demasiado, es mucho mas uniforme sin patrones claros.
 
 <p align="center"><img src="images\distribucion_edades.jpg" width="600" height="450"></p>
 
@@ -137,6 +137,8 @@ Se plantearon 3 objetivos para disminuir las víctimas en siniestros, los 3 Indi
 
 - Continuar monitoreando los objetivos propuestos acompañados de campañas puntuales, en especial a conductores de motos.
 - Reforzar las campañas de seguridad vial principalmente en las primeras horas de la mañana.
-- Mejorar la concienciación sobre los accidentes, centrándose principalmente en los hombres en el rango de edad activo (15-64), quienes continúan siendo los más propensos a sufrir siniestros mortales.
+- Mejorar la concientización sobre los accidentes, centrándose principalmente en los hombres en el rango de edad activos (15-64), quienes continúan siendo los más propensos a sufrir siniestros mortales.
+
+
 
 <p align="center"><img src="images\henry.png"></p>

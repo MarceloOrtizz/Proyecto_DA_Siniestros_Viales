@@ -16,6 +16,7 @@
 - [Dashboard en Power BI](#dashboard-en-power-bi)
 - [Análisis y Conclusiones](#análisis-y-conclusiones)
 - [KPI](#kpi)
+- [Recomendaciones](#recomendaciones)
 
 
 
@@ -131,7 +132,10 @@ Se platearon 3 objetivos para disminuir las víctimas en siniestros, los 3 Indic
 
 <p align="center"><img src="images\kpis.jpg"  width="600" height="165"></p>
 
+# Recomendaciones:
 
-
+- Continuar monitoreando los objetivos propuestos acompañados de campañas puntuales, en especial a conductores de motos.
+- Reforzar las campañas de seguridad vial principalmente en las primeras horas de la mañana.
+- Mejorar la concienciación sobre los accidentes, centrándose principalmente en los hombres en el rango de edad activo (15-64), quienes continúan siendo los más propensos a sufrir siniestros mortales.
 
 <p align="center"><img src="images\henry.png"></p>

@@ -95,7 +95,7 @@ Hay que tener en cuenta que los datos corresponden a Ciudad Autónoma de Buenos 
 El Aislamiento Social Preventivo Y Obligatorio (desde ahora ASPO) comenzó a regir a partir del 20 de Marzo del 2020 y claramente afectó en la disminución de los siniestros. (DNU: https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320)<br>
 Los meses más estrictos con respecto a la circulación fueron entre marzo y octubre, luego se nota la   flexibilización de las medidas con un pico de casos para fines de ese año.<br>
 
-<p align="center"><img src="images\trimestres.jpg"></p>
+<p align="center"><img src="images\trimestres.jpg" width="600" height="350"></p>
 
 El análisis de franjas horarias reveló que el la mayoría de los siniestros ocurren en las primeras horas de la mañana (entre las 4 y las 8), siendo las primeras horas del día cuando ocurren menos hechos (entre las 0 y las 4)
 
@@ -106,7 +106,8 @@ Los hombres adultos (30-65) tienen el mismo patrón que los jóvenes, son conduc
 
 Estudiando la distribucion de edades separadas por sexo se puede notar que cuando mas joven es el hombre, mas propenso a siniestros viales, en cambio en las mujeres la edad no parece influir demasiado, es mucho mas uniforme sin mostras patrones claros.
 
-<p align="center"><img src="images\distribucion_edades.jpg"></p>
+<p align="center"><img src="images\distribucion_edades.jpg" width="600" height="450"></p>
+
 
 
 # KPI
@@ -128,7 +129,7 @@ Se platearon 3 objetivos para disminuir las víctimas en siniestros, los 3 Indic
   Definimos a la **cantidad de accidentes mortales de peatones en siniestros viales** como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas peatones en un determinado periodo temporal.
   Su fórmula para medir la evolución de los accidentes mortales con víctimas peatones es: (Número de accidentes mortales con víctimas peatones en el año anterior - Número de accidentes mortales con víctimas peatones en el año actual) / (Número de accidentes mortales con víctimas peatones en el año anterior) * 100
 
-<p align="center"><img src="images\kpis.jpg"></p>
+<p align="center"><img src="images\kpis.jpg"  width="600" height="165"></p>
 
 
 

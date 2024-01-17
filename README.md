@@ -69,6 +69,9 @@ El proyecto hace uso de diversas tecnologías y herramientas para realizar un an
 
 <p>Mapa interactivo con marcadores: <a href="https://siniestros-viales-caba.netlify.app" target="_blank">https://siniestros-viales-caba.netlify.app</a></p>
 
+<p>Mapa interactivo con marcadores: <a href="https://siniestros-viales-caba.netlify.app" target="_blank">Haz clic aquí</a> para abrir en una nueva pestaña.</p>
+
+
 
 # Dashboard en Power BI
 

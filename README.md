@@ -14,6 +14,8 @@
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Mapa Interactivo](#mapa-interactivo)
 - [Dashboard en Power BI](#dashboard-en-power-bi)
+- [Análisis y Conclusiones](#análisis-y-conclusiones)
+- [KPI](#kpi)
 
 
 
@@ -84,6 +86,50 @@ El proyecto hace uso de diversas tecnologías y herramientas para realizar un an
         <p align="center"><img src="images\aspo.gif"></p>
     </div>
 </div>
+
+# Análisis y Conclusiones:
+
+En el análisis de los datos sobre siniestros, se observaron diferentes patrones temporales y características de las víctimas.<br>
+En cuanto a la distribución anual, se destacó que alrededor del 60% de las víctimas fatales ocurrieron en los primeros 3 años del conjunto de datos, en los últimos años hubo una disminución, que se acentuó en el 2020.<br>
+Hay que tener en cuenta que los datos corresponden a Ciudad Autónoma de Buenos Aires y en el año 2020 se vivió una situación muy particular como consecuencia de la pandemia de COVID. En Argentina, a través de un decreto de necesidad y urgencia se limitó la circulación de las personas.<br>
+El Aislamiento Social Preventivo Y Obligatorio (desde ahora ASPO) comenzó a regir a partir del 20 de Marzo del 2020 y claramente afectó en la disminución de los siniestros. (DNU: https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320)<br>
+Los meses más estrictos con respecto a la circulación fueron entre marzo y octubre, luego se nota la   flexibilización de las medidas con un pico de casos para fines de ese año.<br>
+
+<p align="center"><img src="images\trimestres.jpg"></p>
+
+El análisis de franjas horarias reveló que el la mayoría de los siniestros ocurren en las primeras horas de la mañana (entre las 4 y las 8), siendo las primeras horas del día cuando ocurren menos hechos (entre las 0 y las 4)
+
+De cada 4 víctimas, 3 son hombres (75%), y se observa que en general son más jóvenes que las mujeres.
+La mayoría de los hombres jóvenes (15-30) son conductores de motos, y las mujeres jóvenes son acompañantes de motos.
+Los adultos mayores (65+) tanto hombres como mujeres son en su gran mayoría peatones.
+Los hombres adultos (30-65) tienen el mismo patrón que los jóvenes, son conductores de motos, en cambio las mujeres mayores (30-65) siguen el patrón de las mujeres adultas mayores, es decir son peatones en su mayoría.
+
+Estudiando la distribucion de edades separadas por sexo se puede notar que cuando mas joven es el hombre, mas propenso a siniestros viales, en cambio en las mujeres la edad no parece influir demasiado, es mucho mas uniforme sin mostras patrones claros.
+
+<p align="center"><img src="images\distribucion_edades.jpg"></p>
+
+
+# KPI
+
+Se platearon 3 objetivos para disminuir las víctimas en siniestros, los 3 Indicadores Claves de Rendimiento (KPI) son los siguientes:
+
+- *Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior*.
+  
+  Definimos a la **tasa de homicidios en siniestros viales** como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico.
+  Su fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000
+  
+- *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*.
+  
+  Definimos a la **cantidad de accidentes mortales de motociclistas en siniestros viales** como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal.
+  Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
+
+- *Reducir en un 15% la cantidad de accidentes mortales de peatones en el último año, en CABA, respecto al año anterior*.
+  
+  Definimos a la **cantidad de accidentes mortales de peatones en siniestros viales** como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas peatones en un determinado periodo temporal.
+  Su fórmula para medir la evolución de los accidentes mortales con víctimas peatones es: (Número de accidentes mortales con víctimas peatones en el año anterior - Número de accidentes mortales con víctimas peatones en el año actual) / (Número de accidentes mortales con víctimas peatones en el año anterior) * 100
+
+<p align="center"><img src="images\kpis.jpg"></p>
+
 
 
 
